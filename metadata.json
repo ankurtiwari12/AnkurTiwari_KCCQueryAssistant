@@ -1,0 +1,1 @@
+{"columns": ["BlockName", "Category", "Year", "Month", "Day", "Crop", "DistrictName", "QueryType", "Season", "Sector", "StateName", "QueryText", "KccAns"], "text_columns": ["QueryText", "KccAns"], "shape": [10341, 13], "max_samples": 30000, "random_seed": 42, "preprocessing_date": "2025-05-25 15:11:14.670211"}
