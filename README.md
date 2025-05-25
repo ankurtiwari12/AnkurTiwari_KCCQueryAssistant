@@ -77,6 +77,8 @@ This project implements a Retrieval Augmented Generation (RAG) system for the KC
    streamlit run streamlit_app.py
    ```
 
+![image](https://github.com/user-attachments/assets/cdc64256-4b4c-443e-82e5-1e3164598cb9)
+
 ## Usage
 
 1. The system processes the KCC dataset (limited to 30,000 samples for memory efficiency)
